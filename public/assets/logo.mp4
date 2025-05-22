@@ -1,0 +1,4 @@
+// This is a placeholder. In a real environment, you would need to:
+// 1. Upload the actual logo.mp4 video file to the public/assets directory
+// 2. Ensure the video plays correctly in the SplashScreen component
+// The SplashScreen component has fallback content in case the video doesn't load
